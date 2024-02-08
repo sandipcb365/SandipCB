@@ -1,7 +1,6 @@
 
 # *SANDIP CHAKRABORTY*
-![crop2](https://github.com/SandipCB/Sandip-CB_Details-/assets/96263756/21d64b04-65eb-4af8-84ae-862917be5619)
-
+![Sandip Portfolio - Copy](https://github.com/SandipCB/SandipCB/assets/96263756/71b5e684-9f57-449f-9696-d173576d944b)
 ## PROFESSIONAL SUMMARY
 
 <p align="justify">
@@ -155,3 +154,4 @@ ________________________________________________________________________________
 ```
 I am looking for an internship or a permanent job.
 ```
+![Sandip Portfolio](https://github.com/SandipCB/SandipCB/assets/96263756/dbc0b5a1-e133-4e33-8970-8c9fba5cce54)
