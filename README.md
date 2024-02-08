@@ -136,15 +136,15 @@ In my Secondary School Certificate (SSC), my result was a GPA of 4.82 out of 5.
 🟤Nationality: Bangladeshi
 🟤Driving licence: None
 ```
-
+##
 ## 🎗️AWARDS
-```
+
 🔘**Science Fair Project**
 
 🔘**Best Captain of the Class**
 
 🔘**Class Representative (CR) - 2020 to 2023**
-```
+
 # COURSES
 
 ### Cyber Security
