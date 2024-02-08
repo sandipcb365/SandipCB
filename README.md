@@ -24,9 +24,9 @@ where we got the first prize and were nominated for division level.
 development project and started my favorite passion, UI/UX design.<br>
 </p>
 
-##
-## 🤹🏻‍♀️SKILLS
 ____________________________________________________________________________________________
+## 🤹🏻‍♀️SKILLS
+
 |            Soft Skill                       |        Technical Skill                     |
 |---------------------------------------------|--------------------------------------------|
 |👉🏻 Communication                            |  👉🏻 Project Management                     |
@@ -66,27 +66,27 @@ ________________________________________________________________________________
 |👉🏻                                          |  👉🏻 Photo & Video Editing                  |
 |---------------------------------------------|--------------------------------------------|
 ```-->
-##
+____________________________________________________________________________________________
 ## ⚒️EXPERIENCE
 ```
  Experienced in taking tuition and multiple group projects.
  •  Study course plan.
  N.V - No official working exprience
 ```
-##
+____________________________________________________________________________________________
 ## 📡CONTACT
 ```
 ◽Gmail - chakrabortysandip872@gmail.com
 ◽Permanent Address - Sreemangal, Moulvibazar, Sylhet
 ◽Present Address - Sylhet, Tilagor, Baluchor, Notun Bazar
 ```
-##
+____________________________________________________________________________________________
 ## 🔗You can also find me using this "LINKS"
 
 <!-- Links section starts here -->
 
 [Facebook](https://www.facebook.com/SandipCb365/) | [LinkedIn](https://www.linkedin.com/in/sandipcb365/) | [Instagram](https://www.instagram.com/chakrabortysandip872) | [GitHub](https://github.com/SandipCB) | [Twitter](http://www.studywithanis.com/)
-##
+____________________________________________________________________________________________
 ## 📚EDUCATION
 
 ### 🟢Bachelor of Science (BSc)                                                                                     
@@ -109,7 +109,7 @@ Here, I've completed my primary school education and secondary school education.
 In my Junior School Certificate (JSC), I got a GPA of 5 out of 5.                                                     
 In my Secondary School Certificate (SSC), my result was a GPA of 4.82 out of 5.                                       
 ```
-##
+____________________________________________________________________________________________
 ## 👨🏻‍💻HOBBIES
 ```
 🔶Reading
@@ -123,12 +123,14 @@ In my Secondary School Certificate (SSC), my result was a GPA of 4.82 out of 5.
 🔶Music
 🔶Cooking
 ```
+____________________________________________________________________________________________
 ## 🎵LANGUAGES
 ```
 🔷English
 🔷Bangla
 🔷Hindi
 ```
+____________________________________________________________________________________________
 ## PERSONAL INFO
 ```
 🟤Date of birth: 26 August 2000
@@ -136,22 +138,19 @@ In my Secondary School Certificate (SSC), my result was a GPA of 4.82 out of 5.
 🟤Nationality: Bangladeshi
 🟤Driving licence: None
 ```
-##
+____________________________________________________________________________________________
 ## 🎗️AWARDS
-
-🔘**Science Fair Project**
-
-🔘**Best Captain of the Class**
-
-🔘**Class Representative (CR) - 2020 to 2023**
+🔘Science Fair Project
+🔘Best Captain of the Class
+🔘Class Representative (CR) - 2020 to 2023
+____________________________________________________________________________________________
 
 # COURSES
-
 ### Cyber Security
 ```
 Coursera - 2023
 ```
-
+____________________________________________________________________________________________
 # INTERNSHIPS
 ```
 I am looking for an internship or a permanent job.
