@@ -1,5 +1,5 @@
 
-# SANDIP CHAKRABORTY
+# *SANDIP CHAKRABORTY*
 ![crop2](https://github.com/SandipCB/Sandip-CB_Details-/assets/96263756/21d64b04-65eb-4af8-84ae-862917be5619)
 
 ## PROFESSIONAL SUMMARY
@@ -21,125 +21,130 @@ and Arduino.
  I've also done one science fair project with my team in our secondary level, 
 where we got the first prize and were nominated for division level.
  Recently, I've been working in the web development field. I did my final web 
-development project and started my favorite passion, UI/UX design.
-
+development project and started my favorite passion, UI/UX design.<br>
 </p>
 
-⚒️**EXPERIENCE**
-```
-No professional experience.
-```
+##
+## 🤹🏻‍♀️SKILLS
+____________________________________________________________________________________________
+|            Soft Skill                       |        Technical Skill                     |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Communication                            |  👉🏻 Project Management                     |
+|👉🏻 Teamwork                                 |  👉🏻 Creative Thinking & Writing            |
+|👉🏻 Creativity                               |  👉🏻 Problem-solving                        |
+|👉🏻 Presentation                             |  👉🏻 UX/UI Designer                         |
+|👉🏻 Leadership                               |  👉🏻 C & C++                                |
+|👉🏻 Negotiations                             |  👉🏻 Python                                 |
+|👉🏻 Teaching                                 |  👉🏻 Java                                   |
+|👉🏻 Cultural Verity Adoption                 |  👉🏻 HTML, CSS                              |
+|👉🏻                                          |  👉🏻 Laravel(Recently I’m learning)         |
+|👉🏻                                          |  👉🏻 Photo & Video Editing                  |
 
-🤹🏻‍♀️**SKILLS**
+<!--```
+____________________________________________________________________________________________
+|            Soft Skill                       |        Technical Skill                     |
+|=============================================|============================================|
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Communication                            |  👉🏻 Project Management                     |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Teamwork                                 |  👉🏻 Creative Thinking & Writing            |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Creativity                               |  👉🏻 Problem-solving                        |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Presentation                             |  👉🏻 UX/UI Designer                         |
+|---------------------------------------------|--------------------------------------------| 
+|👉🏻 Leadership                               |  👉🏻 C & C++                                |
+|---------------------------------------------|--------------------------------------------|      
+|👉🏻 Negotiations                             |  👉🏻 Python                                 |
+|---------------------------------------------|--------------------------------------------|                 
+|👉🏻 Teaching                                 |  👉🏻 Java                                   |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻 Cultural Verity Adoption                 |  👉🏻 HTML, CSS                              |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻                                          |  👉🏻 Laravel(Recently I’m learning)         |
+|---------------------------------------------|--------------------------------------------|
+|👉🏻                                          |  👉🏻 Photo & Video Editing                  |
+|---------------------------------------------|--------------------------------------------|
+```-->
+##
+## ⚒️EXPERIENCE
 ```
--Communication
--Teamwork
--Creativity
--Presentation
--Leadership
--Project Management
--Creative Thinking & Writing
--Negotiations
--Teaching
--Problem-solving
--UX/UI Designer
--C & C++
--Python
--Java
--HTML, CSS
--Laravel(Recently I’m learning)
--Photo & Video Editing
--Cultural Verity Adoption
+ Experienced in taking tuition and multiple group projects.
+ •  Study course plan.
+ N.V - No official working exprience
 ```
+##
+## 📡CONTACT
+```
+◽Gmail - chakrabortysandip872@gmail.com
+◽Permanent Address - Sreemangal, Moulvibazar, Sylhet
+◽Present Address - Sylhet, Tilagor, Baluchor, Notun Bazar
+```
+##
+## 🔗You can also find me using this "LINKS"
 
-📡**CONTACT**
-```
-Gmail - chakrabortysandip872@gmail.com
-P ermanentAddress - Sreemangal, Moulvibazar, Sylhet
-Present Add. - Sylhet, Tilagor, Baluchor, Notun Bazar
-```
-🔗**You can aslo find me using this "LINKS"**
 <!-- Links section starts here -->
-```
-[facebook]: https://www.facebook.com/SandipCb365/
-[linkedin]: https://www.linkedin.com/in/sandipcb365/
-[instagram]: https://www.instagram.com/chakrabortysandip872
-[github]: https://github.com/SandipCB
-[twitter]: http://www.studywithanis.com/
-```
-<!-- Links section End here -->
 
-📚**EDUCATION**
+[Facebook](https://www.facebook.com/SandipCb365/) | [LinkedIn](https://www.linkedin.com/in/sandipcb365/) | [Instagram](https://www.instagram.com/chakrabortysandip872) | [GitHub](https://github.com/SandipCB) | [Twitter](http://www.studywithanis.com/)
+##
+## 📚EDUCATION
 
-### Bachelor of Science (BSc)
-
-### Leading University, Bangladesh, Sylhet
-#### 2020 - 2023
+### 🟢Bachelor of Science (BSc)                                                                                     
+**Leading University, Bangladesh, Sylhet**     
+**2020 - 2024**                                                                                                     
+```                                                                                                                 
+(B.Sc in CSE at Leading University – 4th year 2nd Semester running)                  
+```                                                                                     
+### 🔴Higher Secondary Certificate  
+**Sreemangal Govt. College, Sreemangal,Bangladesh**              
+**2017 - 2019**                                                                                                    
+```                                                                                                                
+I have studied my higher secondary here. In my Higher Secondary Certificate (HSC), I got a GPA of 4.23 out of 5.   
 ```
-(B.Sc in CSE at Leading University – 4th year 2nd Semester running)
+### 🔵Secondary School Certificate                                                                                  
+**The Buds Residential Model School and College,Sreemangal, Bangladesh**                                             
+**2006 - 2017**                                                                                                      
+```     |
+Here, I've completed my primary school education and secondary school education.                                      
+In my Junior School Certificate (JSC), I got a GPA of 5 out of 5.                                                     
+In my Secondary School Certificate (SSC), my result was a GPA of 4.82 out of 5.                                       
 ```
-
-### The Buds Residential Model School and College,Sreemangal, Bangladesh,
-#### 2006 - 2017
-
+##
+## 👨🏻‍💻HOBBIES
 ```
-Here, I've completed my primary school education and secondary school
-education.
+🔶Reading
+🔶Photography
+🔶Traveling
+🔶Video games
+🔶Cycle riding
+🔶Hiking
+🔶Exploring nature
+🔶Recitation
+🔶Music
+🔶Cooking
 ```
+## 🎵LANGUAGES
 ```
-In my Junior School Certificate(JSC) I got a GPA - of 5 out of 5. In my
-Secondary School Certificate(SSC) my result was a GPA - of 4.82 out of
-5.
-```
-### Sreemangal Govt. College, Sreemangal,Bangladesh
-
-#### 2017 - 2019
-
-```
- have studied my higher secondary here. In my Higher Secondary Certificate (HSC),
-I got a GPA of 4.23 out of 5.
-```
-
-👨🏻‍💻## HOBBIES
-```
-Reading
-Photography
-Traveling
-Video games
-Cycle riding
-Hiking
-Exploring nature
-Recitation
-Music
-Cooking
-```
-## LANGUAGES
-
-```
-English
-Bangla
-Hindi
+🔷English
+🔷Bangla
+🔷Hindi
 ```
 ## PERSONAL INFO
-
 ```
-Date of birth: 26 August 2000
-Place of birth: Sreemangal
-Nationality: Bangladeshi
-Driving licence: None
+🟤Date of birth: 26 August 2000
+🟤Place of birth: Sreemangal
+🟤Nationality: Bangladeshi
+🟤Driving licence: None
 ```
 
-## AWARDS
+## 🎗️AWARDS
+```
+🔘**Science Fair Project**
 
-### Science Fair Project
+🔘**Best Captain of the Class**
 
-### Best Captain of the Class
-
-### Class Representative (CR) - 2020 to 2023
-
-<br>
-<br>
-
+🔘**Class Representative (CR) - 2020 to 2023**
+```
 # COURSES
 
 ### Cyber Security
@@ -147,10 +152,7 @@ Driving licence: None
 Coursera - 2023
 ```
 
-<br>
-<br>
-
 # INTERNSHIPS
 ```
-I am looking for an internship.
+I am looking for an internship or a permanent job.
 ```
