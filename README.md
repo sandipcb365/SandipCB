@@ -154,4 +154,3 @@ ________________________________________________________________________________
 ```
 I am looking for an internship or a permanent job.
 ```
-![Sandip Portfolio](https://github.com/SandipCB/SandipCB/assets/96263756/dbc0b5a1-e133-4e33-8970-8c9fba5cce54)
