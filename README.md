@@ -5,21 +5,19 @@
 
 <p align="justify">
 
-I'm Sandip Chakraborty. Recently, I've completed my BSc in CSE from Lead
-ing University. I want to mention that I'm not yet certified officially because 
-my final project defence is yet to be completed. I'm always passionate 
-about and dedicated to my work. I'm a project-type learner, and that's 
-why I've had no issues learning anything new. Besides my enthusiasm for 
-learning anything new, I enjoy teaching as well. Also, I'm serious about my 
-UX/UI design and web development. So, if I get any chance to join any of 
-the related fields, I'll be glad to do so.
- I’ve made 5 projects in C, 3 projects in Java, and one small basic project in 
-Python.
- In my 3rd year project, I've worked in robotics using hardware, multi-sim, 
+I'm Sandip Chakraborty. Recently, I completed my BSc in CSE from Leading
+University. I'm always passionate about and dedicated to my work. I'm a 
+project-type learner, and that's why I've had no issues learning anything
+new. Besides my enthusiasm for learning anything new, I enjoy teaching as well.
+Also, I'm serious about my UX/UI design and web development (Fronted).
+If I get any chance to join any related fields, I'll be glad to do so.
+I’ve made 5 projects in C, 3 projects in Java, and one small basic project in 
+Python. Which are available in my Github Account (🔗 -  https://github.com/SandipCB)
+In my 3rd year project, I worked in robotics using hardware, multi-sim, 
 and Arduino.
- I've also done one science fair project with my team in our secondary level, 
+I've also done one science fair project with my team at our secondary level, 
 where we got the first prize and were nominated for division level.
- Recently, I've been working in the web development field. I did my final web 
+Recently, I've been working in the web development field. I did my final web 
 development project and started my favorite passion, UI/UX design.<br>
 </p>
 
@@ -92,7 +90,9 @@ ________________________________________________________________________________
 **Leading University, Bangladesh, Sylhet**     
 **2020 - 2024**                                                                                                     
 ```                                                                                                                 
-(B.Sc in CSE at Leading University – 4th year 2nd Semester running)                  
+B.Sc in CSE at Leading University.
+Start: 2020- February
+End: 2024 - March.                  
 ```                                                                                     
 ### 🔴Higher Secondary Certificate  
 **Sreemangal Govt. College, Sreemangal,Bangladesh**              
@@ -101,7 +101,7 @@ ________________________________________________________________________________
 I have studied my higher secondary here. In my Higher Secondary Certificate (HSC), I got a GPA of 4.23 out of 5.   
 ```
 ### 🔵Secondary School Certificate                                                                                  
-**The Buds Residential Model School and College,Sreemangal, Bangladesh**                                             
+**The Buds Residential Model School and College, Sreemangal, Bangladesh**                                             
 **2006 - 2017**                                                                                                      
 ```     |
 Here, I've completed my primary school education and secondary school education.                                      
