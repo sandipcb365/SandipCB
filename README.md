@@ -10,16 +10,17 @@ University. I'm always passionate about and dedicated to my work. I'm a
 project-type learner, and that's why I've had no issues learning anything
 new. Besides my enthusiasm for learning anything new, I enjoy teaching as well.
 Also, I'm serious about my UX/UI design and web development (Fronted).
-If I get any chance to join any related fields, I'll be glad to do so.<be>
-I’ve made 5 projects in C, 3 projects in Java, and one small basic project in 
-Python. Which are available in my Github Account [🔗: https://github.com/SandipCB].<br>
-In my 3rd year project, I worked in robotics using hardware, multi-sim, 
-and Arduino.<br>
+If I get any chance to join any related fields, I'll be glad to do so.<br>
+I’ve made projects in C, Java, and Python. Which are available in my 
+Github Account [🔗: https://github.com/SandipCB].<br>
+In my 3rd year project, I worked in robotics using hardware, multi-sim, and
+Arduino. And for my final year project, I work in web development.<br>
 I've also done one science fair project with my team at our secondary level, 
 where we got the first prize and were nominated for division level.
 Recently, I've been working in the web development field. I did my final web 
 development project and started my favorite passion, UI/UX design.<br>
 </p>
+
 
 ____________________________________________________________________________________________
 ## 🤹🏻‍♀️SKILLS
