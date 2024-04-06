@@ -93,7 +93,8 @@ ________________________________________________________________________________
 ```                                                                                                                 
 B.Sc in CSE at Leading University.
 Start: 2020- February
-End: 2024 - March.                  
+End: 2024 - March.
+B.Sc. in CSE at Leading University. My CGPA is 3.51 out of 4.                   
 ```                                                                                     
 ### 🔴Higher Secondary Certificate  
 **Sreemangal Govt. College, Sreemangal,Bangladesh**              
@@ -136,7 +137,6 @@ ________________________________________________________________________________
 🟤Date of birth: 26 August 2000
 🟤Place of birth: Sreemangal
 🟤Nationality: Bangladeshi
-🟤Driving licence: None
 ```
 ____________________________________________________________________________________________
 ## 🎗️AWARDS
